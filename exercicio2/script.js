@@ -15,5 +15,6 @@ console.log(apenasTudo.length);
 
 console.log(apenasNumeros[0]);
 console.log(apenasLetrinhas[1]);
+console.log(apenasTudo[2]);
 console.log(apenasNumeros.includes(14));
 console.log(apenasTudo.includes(9));
